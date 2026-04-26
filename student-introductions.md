@@ -20,7 +20,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **GitHub Username:** @sithuminiNK
 - **Location:** SLIIT MALABE
 - **Background:** Data Science student
-- **Learning Goals:** GIT HUB LEARNING
+- **Learning Goals:** GIT HUB
 - **Fun Fact:** 
 - **Date Added:** 2026/04/26
 
