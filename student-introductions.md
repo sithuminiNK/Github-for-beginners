@@ -5,23 +5,23 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 ## Example
 
 ### John Doe (Example)
-- **GitHub Username:** @johndoe
-- **Location:** San Francisco, CA
-- **Background:** Computer Science student learning web development
-- **Learning Goals:** Master Git workflows and collaborative development
+- **GitHub Username:** @SithuminiNK
+- **Location:** SLIIT Malabe
+- **Background:** Data Science student learning web development
+- **Learning Goals:** Github 101
 - **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
-- **Date Added:** January 15, 2024
+- **Date Added:** 2026/04.26
 
 ---
 
 <!-- Add your introduction below this line -->
 
 ### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
+- **GitHub Username:** @sithuminiNK
+- **Location:** SLIIT MALABE
+- **Background:** Data Science student
+- **Learning Goals:** GIT HUB LEARNING
 - **Fun Fact:** 
-- **Date Added:** 
+- **Date Added:** 2026/04/26
 
 
